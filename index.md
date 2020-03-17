@@ -2,7 +2,7 @@
 
 ## はじめに
 
-![dc_icon2018](https://user-images.githubusercontent.com/39210441/76865607-4d5cab00-68a6-11ea-9e78-bc7825d7e067.png)
+![dc_icon2018](https://user-images.githubusercontent.com/39210441/76868039-b265d000-68a9-11ea-8d48-fcdd5597a6b8.png)
 
 
 新入生の皆さん、ご入学おめでとうございます！私たちは東京都市大学デジタルコンテンツ研究会です。
