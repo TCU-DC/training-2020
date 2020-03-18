@@ -35,6 +35,6 @@ https://2020.tcu-dc.net/
 - 複数ページに分かれる場合は、リンクを設定して下さい。リンクは`[リンク名](markdownファイル名)`と書くと設定できます。
 例: `[02.インストールしよう](02.md)`
 - 画像はGitレポジトリにアップロードするのではなく、Imgurなどの外部サービスを使うか、GitHubのIssueにアップロードした画像を挿入して下さい。
-参考リンク: https://qiita.com/ROY_M/items/2c4feb5de05535441bc8
+参考リンク: [https://qiita.com/ROY_M/items/2c4feb5de05535441bc8](https://qiita.com/ROY_M/items/2c4feb5de05535441bc8)
 
 詳しくは[寄稿者の方へページ](docs/for-contributor/index.md)をご覧ください。
