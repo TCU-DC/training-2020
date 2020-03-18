@@ -28,7 +28,7 @@ https://2020.tcu-dc.net/
 - おーじぇい（デジコン代表） / @920OJ
 - 以下記入（To-Do）
 
-## 編集者の方へ
+## 寄稿者の方へ
 - 記入はMarkdown形式で行って下さい。下書きはHackmdを使うのをおすすめします。
 - 講座資料は、 `/docs/(任意の英語タイトル)/(数字.md) ` に保存してください。数字は01番から始めて下さい。
 例: `/docs/studio-one/01.md` 
@@ -36,3 +36,5 @@ https://2020.tcu-dc.net/
 例: `[02.インストールしよう](02.md)`
 - 画像はGitレポジトリにアップロードするのではなく、Imgurなどの外部サービスを使うか、GitHubのIssueにアップロードした画像を挿入して下さい。
 参考リンク: https://qiita.com/ROY_M/items/2c4feb5de05535441bc8
+
+詳しくは[寄稿者の方へページ](docs/for-contributor/index.md)をご覧ください。
